@@ -7,6 +7,8 @@ Currently studying at FCIS ASU.
 - 👯 I’m looking to improve my solving problems skills, learning more languages and technologies.
 - 🌱 I’m learning all about Data Structures.
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox) 
+### Connect with me:
+- <img align="left" alt="Discord" width="22px" src="https://preview.redd.it/s9biyhs4lix61.jpg?width=960&crop=smart&auto=webp&s=815ce0836ecc4a00dfe63ac1aa28edf3fc523d26" />Abraam#0497
 
 
 <h3> Languages & tools that i've worked with: </h3>
