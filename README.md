@@ -1,6 +1,5 @@
 <h1 align="center">Hi there👋</h1>
-<h3> I'm Abraam and here is some informations about me: </h3>
-
+<h3>My name is Abraam, and here is a brief introduction about myself:</h3>
 Currently studying at FCIS ASU.
 
 
