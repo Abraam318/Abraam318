@@ -20,6 +20,7 @@ Currently studying at FCIS ASU.
 <img width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 <img width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img width="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_SQL_logo.png" />
 
 
 ## Streak Stats
