@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Abraam Adel
+# Abraam Adel
 
 ### Cybersecurity Student • Security Research Enthusiast • CTF Player
 
