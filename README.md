@@ -1,141 +1,37 @@
-<!-- Header -->
-
-<h1 align="center">👋 Hey, I'm <strong>Abraam</strong></h1>
-<h3 align="center">Software Engineer • .NET Developer • Automation Builder</h3>
+<h1 align="center">👋 Hi, I'm Abraam</h1>
+<h3 align="center">Junior Cybersecurity Student | CTF Player | Security Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A569FF&size=22&center=true&vCenter=true&lines=Full-Stack+Developer;Backend+.NET+Engineer;AI+Automation+Builder;E-commerce+Systems+Creator;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23A569FF&size=22&center=true&vCenter=true&lines=Cybersecurity+Student;CTF+Player;Ethical+Hacking+Enthusiast;Always+Learning+🔐" />
 </p>
 
-## 🚀 About Me
+## 🔐 About Me
 
-I'm a Computer Science student at **FCIS ASU**, passionate about building systems, automating businesses, and creating practical software products.
+Computer Science student at FCIS Ain Shams University with a strong interest in:
 
-I work across:
+* Penetration Testing
+* Active Directory Security
+* Network Security
+* Web Application Security
+* CTF Challenges
 
-* Backend engineering (.NET, C#, SQL)
-* Full-stack development (JS/TS, React)
-* E-commerce automation (Shopify + AI)
-* Business workflows & automation logic
+Currently learning and practicing through Hack The Box, TryHackMe, and personal lab environments.
 
-And I love anything related to **business, systems, and efficiency**.
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages & Core**
+## 🛠️ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,python,java,bash" />
+  <img src="https://skillicons.dev/icons?i=python,bash,cpp,linux,git,github" />
 </p>
 
+**Tools:** Nmap, Wireshark, Burp Suite, Metasploit, BloodHound, Impacket
 
-### **Backend Technologies**
+## 🎯 Current Focus
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,fastapi" />
-</p>
+* Active Directory
+* Privilege Escalation
+* Web Exploitation
+* Security Research
 
-### **Frontend**
+## 📫 Contact
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-</p>
-
-### **Mobile & Cross-Platform**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### **Cloud, Hosting & DevOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,netlify,cloudflare,docker,githubactions" />
-</p>
-
-
-### **Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
-</p>
-
-
-### **E-commerce & Automation Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=shopify,firebase,supabase" />
-</p>
-
-### **Tools & Utilities**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,arduino,figma" />
-</p>
-
-
-### **Other Skills**
-
-* Workflow automation
-* REST API design
-* Clean architecture
-* Cloud integrations
-* CI/CD pipelines
-* E-commerce systems
-* Backend scalability
-
-
-## 🧠 Featured Projects
-
-### 🔹 Simple Digital Wallet (C++ → .NET Web API)
-University project evolved into a fully structured backend service.
-
-### 🔹 Real Estate Management System
-Handles properties, payments, clients, and reporting.
-
-### 🔹 Web Banking App (JavaScript + Firebase)
-Real-time dashboard, authentication, animations, and local-storage persistence.
-
-### 🔹 Fitness Coach Automation System
-Weekly check-ins, payment uploads, and full automation workflows.
-
-### 🔹 Shopify Store Builder + Automation Agency
-Launch stores + automated business systems for local brands.
-
-
-## ⚡ My Engineering Focus
-
-* Backend architecture
-* API-driven systems
-* Automation workflows
-* Real business applications
-* Scalable solutions
-
-
-## 📫 Contact Me
-
-* **Email:** [abraamadel6@gmail.com](mailto:abraamadel6@gmail.com)
-* **Discord:** Abraam#0497
-
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abraam318&theme=tokyonight&hide_border=true" />
-</p>
-
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abraam318&theme=onedark&no-frame=true&row=1" />
-</p>
-
-
-## 🚀 Fun Mini-Dashboard
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abraam318&theme=react-dark&hide_border=true" />
-</p>
+* Email: [abraamadel6@gmail.com](mailto:abraamadel6@gmail.com)
