@@ -4,7 +4,7 @@
 
 ### Cybersecurity Student • Security Research Enthusiast • CTF Player
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Security+Research+Enthusiast;CTF+Player;Learning+Something+New+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Security+Research+Enthusiast;CTF+Player" />
 
 </div>
 
@@ -16,8 +16,6 @@
 Computer Science student focused on cybersecurity,
 offensive security, network security, and web security.
 
-Passionate about understanding how systems work,
-finding weaknesses, and continuously improving my skills.
 ```
 
 ### ⚔️ Arsenal
@@ -25,8 +23,6 @@ finding weaknesses, and continuously improving my skills.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,python,bash,cpp,git,github" />
 </p>
-
-**Tools:** Burp Suite • Nmap • Wireshark • Metasploit • Hashcat • John The Ripper
 
 ---
 
